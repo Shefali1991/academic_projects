@@ -1,5 +1,8 @@
-##SHEFALI
+#ACADEMIC PROJECTS COMPLETED AT UTD
 
-####CHATHAM COURTS
+##WEB PROGRAMMING LANGUAGES
+###projects are in folder wpl
 
-#####COMPUTER SCIENCE
+##DATA STRUCTURES AND ALGORITHMS
+###projects are in folder algo
+###projects are in folder ds
