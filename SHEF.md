@@ -8,7 +8,4 @@
 
 ###projects are in folder ds
 
-####I ROCK
-=======
-
-shefali SINGH. 
+###Learning to do git ammend
