@@ -1,0 +1,24 @@
+Most Appropriate Facility:
+
+File Name: NearestCopartLocation.java,ZipCodeApi.java
+
+Supporting Files:
+org.json.jar - add jar to project build path.
+CopartCustomerLocation.csv
+copartLocations.csv
+
+Sample:
+Enter Customer ID and Zip code
+A0001
+23243
+PA WEST MIFFLIN (412) 464-4340
+Enter Customer ID and Zip code
+A00232
+94523
+Fetching from API............
+IL PEKIN (309) 347-4196
+Enter Customer ID and Zip code
+NameLess
+94523
+IL PEKIN (309) 347-4196
+Enter Customer ID and Zip code
